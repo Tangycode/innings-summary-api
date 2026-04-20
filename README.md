@@ -1,6 +1,4 @@
 innings-summary-api
-#Innings Summary API
-
 #Overview
 This API generates a complete statistical summary of a cricket innings using ball-by-ball event data. It is designed to be integration-ready for the Khel AI MVP system.
 
