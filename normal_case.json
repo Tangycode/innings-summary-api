@@ -1,0 +1,14 @@
+{
+  "match_id": "M001",
+  "innings_id": "I001",
+  "teams": ["A", "B"],
+  "players": ["A", "B", "C"],
+  "ball_events": [
+    {"runs": 1, "batter": "A", "bowler": "X", "legal": true, "wicket": false},
+    {"runs": 4, "batter": "A", "bowler": "X", "legal": true, "wicket": false},
+    {"runs": 0, "batter": "B", "bowler": "X", "legal": true, "wicket": true},
+    {"runs": 2, "batter": "C", "bowler": "X", "legal": true, "wicket": false},
+    {"runs": 1, "batter": "C", "bowler": "X", "legal": true, "wicket": false},
+    {"runs": 6, "batter": "C", "bowler": "X", "legal": true, "wicket": false}
+  ]
+}
